@@ -1,0 +1,38 @@
+{
+    "livros": [
+        {
+            "id": 1,
+            "descrição": "como persuadir alguém em 90seg",
+            "conclusão": "pendente"
+        },
+        {
+            "id": 2,
+            "descrição": "persuasão",
+            "conclusão": "pendente"
+        }
+    ],
+    "estudos": [
+        {
+            "id": 1,
+            "descrição": "estudar python",
+            "conclusão": "pendente"
+        },
+        {
+            "id": 2,
+            "descrição": "estudar inglês",
+            "conclusão": "pendente"
+        }
+    ],
+    "casa": [
+        {
+            "id": 1,
+            "descrição": "limpar a caixa de areia dos gatos",
+            "conclusão": "pendente"
+        },
+        {
+            "id": 2,
+            "descrição": "limpar a cozinha",
+            "conclusão": "pendente"
+        }
+    ]
+}
