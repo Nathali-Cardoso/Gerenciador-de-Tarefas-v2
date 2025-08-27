@@ -1,0 +1,24 @@
+{
+    "estudos": [
+        {
+            "descrição": "estudar python",
+            "conclusão": "pendente"
+        },
+        {
+            "descrição": "estudar inglês",
+            "conclusão": "pendente"
+        },
+        {
+            "descrição": "estudar paciencia",
+            "conclusão": "pendente"
+        },
+        {
+            "descrição": "estudar api",
+            "conclusão": "pendente"
+        },
+        {
+            "descrição": "estudar java",
+            "conclusão": "pendente"
+        }
+    ]
+}
