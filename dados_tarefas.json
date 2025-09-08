@@ -1,24 +1,21 @@
 {
-    "estudos": [
+    "trabalho": [],
+    "estudo": [
         {
-            "descrição": "estudar python",
+            "descrição": "python",
+            "conclusão": "concluído"
+        },
+        {
+            "descrição": "italiano",
             "conclusão": "pendente"
         },
         {
-            "descrição": "estudar inglês",
+            "descrição": "ingles",
             "conclusão": "pendente"
         },
         {
-            "descrição": "estudar paciencia",
-            "conclusão": "pendente"
-        },
-        {
-            "descrição": "estudar api",
-            "conclusão": "pendente"
-        },
-        {
-            "descrição": "estudar java",
-            "conclusão": "pendente"
+            "descrição": "java",
+            "conclusão": "concluído"
         }
     ]
 }
