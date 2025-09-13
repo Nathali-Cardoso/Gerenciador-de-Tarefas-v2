@@ -9,5 +9,3 @@ print('Está é o Gerenciador de Tarefas para você organizar \n'
 
 
 menu_principal()
-
-## adicionar cores

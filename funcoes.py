@@ -1,5 +1,7 @@
+from colorama import Fore, Back, Style, init
 import json
 import sys
+init(autoreset=True)
 
 # FUNÇÕES DE ARMAZENAMENTO
 try: 
@@ -488,3 +490,4 @@ def formatacao_menu(texto):
 
 def separador():
     print('-' * 70)
+ 
